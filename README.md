@@ -3,8 +3,6 @@
 This repository contains example tests for Json Validation.
 Automation Framework built using Java, Maven, TestNG.
 
-Test Driven Framework
-
 **How to use this framework?**
 
 Clone the repository to your workspace.
